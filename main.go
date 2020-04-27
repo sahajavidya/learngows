@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"learngows/stringutils"
 
+        "github.com/sahajavidya/learngows"	
 )
 
 func main() {
