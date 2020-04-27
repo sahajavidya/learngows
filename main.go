@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-   	"project1/stringutils"
+   	"github.com/sahajavidya/learngows/stringutils"
 )
 
 func main() {
