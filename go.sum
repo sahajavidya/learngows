@@ -4,7 +4,14 @@ github.com/konsorten/go-windows-terminal-sequences v1.0.3/go.mod h1:T0+1ngSBFLxv
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/sahajavidya/mathutils v0.0.0-20200502141605-5fae07df7c8f h1:TKkH95N0WyIbB4KF486umAPoBVrzp3GZf3Vh+ngirwA=
 github.com/sahajavidya/mathutils v0.0.0-20200502141605-5fae07df7c8f/go.mod h1:/pG8B6jySODIjIfyC1oGbvlVl0ZFwVjZ3025njQbp4U=
+github.com/sahajavidya/mathutils v1.0.0 h1:3fjX+bUsE0F7u5ETLcY68mL2mT9WqGldbBJTpVZpbBw=
+github.com/sahajavidya/mathutils v1.0.0/go.mod h1:/pG8B6jySODIjIfyC1oGbvlVl0ZFwVjZ3025njQbp4U=
+github.com/sahajavidya/mathutils v1.1.0 h1:3SNYRFpNm+ACymRuxdEZK3uaZSRBDeXQJ8SzVEffo3c=
+github.com/sahajavidya/mathutils v1.1.0/go.mod h1:/pG8B6jySODIjIfyC1oGbvlVl0ZFwVjZ3025njQbp4U=
 github.com/sirupsen/logrus v1.6.0 h1:UBcNElsrwanuuMsnGSlYmtmgbb23qDR5dG+6X6Oo89I=
 github.com/sirupsen/logrus v1.6.0/go.mod h1:7uNnSEd1DgxDLC74fIahvMZmmYsHGZGEOFrfsX/uA88=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
+golang.org/x/sys v0.0.0-20190422165155-953cdadca894 h1:Cz4ceDQGXuKRnVBDTS23GTn/pU5OE2C0WrNTOYK1Uuc=
 golang.org/x/sys v0.0.0-20190422165155-953cdadca894/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20200509044756-6aff5f38e54f h1:mOhmO9WsBaJCNmaZHPtHs9wOcdqdKCjF6OPJlmDM3KI=
+golang.org/x/sys v0.0.0-20200509044756-6aff5f38e54f/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
